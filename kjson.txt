@@ -40,18 +40,33 @@
 "banner_network_choice":"vungle", 
 "interstisial_network_choice":"vungle", 
 "reward_network_choice":"vungle",
-"native_network_choice":"admob"
+"native_network_choice":"vungle"
   
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"Hawaiian pizza is the most well-known example of a pizza with pineapple topping. It typically consists of a pizza base topped with tomato sauce, cheese, ham, and pineapple. The combination of the sweet and tangy flavor of the pineapple with the savory elements of the pizza has divided opinions for years.
+
+ ",
+   "photo1":"https://iili.io/Ht07B6b.webp"},
+  {"desc2":"Supporters of pineapple-on-pizza argue that the combination offers a delicious balance of flavors. The sweetness of the pineapple complements the saltiness of the cheese and ham, creating a unique and enjoyable taste. They believe that pizza should be an open canvas for creativity, allowing for diverse and unconventional toppings.
+
+","photo2":"https://iili.io/Ht07fne.webp"},
+  {"desc3":"On the other hand, opponents of pineapple-on-pizza argue that the combination is sacrilegious and goes against the traditional Italian roots of pizza. They believe that certain ingredients, such as pineapple, do not belong on a classic pizza and that it ruins the authenticity and taste of the dish.
+
+r","photo3":"https://iili.io/Ht07qMu.webp"},
+  {"desc4":"The debate over pineapple-on-pizza has become so significant that it has even garnered attention from celebrities, politicians, and the media. Social media is often flooded with memes, jokes, and strong opinions on the topic.
+
+","photo4":"https://iili.io/Ht07Ft9.webp"},
+  {"desc5":"In the end, whether or not to put pineapple on pizza comes down to personal preference. Some people absolutely love the sweet and savory contrast it offers, while others prefer to stick to more traditional pizza toppings. The beauty of pizza is its versatility, and there are countless variations to suit different tastes and culinary preferences. So, whether you're a pineapple-on-pizza advocate or not, the most important thing is to enjoy your pizza the way you like it!
+
+
+
+
+","photo5":"https://iili.io/Ht07nFj.webp"},
+  {"descd":""Pineapple-on-Pizza" is a popular and often controversial topic that sparks heated debates among pizza enthusiasts worldwide. It refers to the practice of putting pineapple as a topping on pizza.
+
+","photod":"https://iili.io/Ht07qMu.webp"}
    ]
  
 }
